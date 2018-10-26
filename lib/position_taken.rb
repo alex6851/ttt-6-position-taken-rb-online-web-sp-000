@@ -6,6 +6,5 @@ if board[index] == 'X' || board[index] == 'O'
 
   elsif board[index] != " " || board[index] != ""
     return false
-
   end
 end
